@@ -1,0 +1,5 @@
+Nama   : Ni Made Cantika Dewi
+Cloud computing adalah model penyediaan sumber daya
+komputasi melalui internet. Ini menggantikan model tradisional di
+mana perusahaan atau individu harus memiliki dan mengelola
+perangkat keras serta perangkat lunak mereka sendiri. 
